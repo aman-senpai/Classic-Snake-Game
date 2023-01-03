@@ -2,7 +2,7 @@
 
 Language: Python
 
-This game uses turtle module for GUI.
+This game uses turtle module for GUI. Game scores are stored in a data.txt file.
 
 ## Imports:
 ```python
